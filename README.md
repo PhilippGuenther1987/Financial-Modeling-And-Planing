@@ -4,3 +4,5 @@
 ![M AModel](https://github.com/user-attachments/assets/4e6a5fe9-254d-4460-a6cd-99324bd10436)
 ![OperationalModel](https://github.com/user-attachments/assets/cec9b275-5111-4cf1-85eb-f4a800c8feb8)
 ![RollingForecastMonthlyModel](https://github.com/user-attachments/assets/fd3e8e75-bc84-4b00-a2e2-df4d02b5c698)
+![Cost Structure Analysis](https://github.com/user-attachments/assets/83be6e59-b139-48c7-901f-39b3f06c66c9)
+![Forecast Models](https://github.com/user-attachments/assets/1ffe0c7c-b9d2-4a67-ac54-c3cd9c099b36)
