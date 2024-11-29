@@ -6,3 +6,4 @@
 ![RollingForecastMonthlyModel](https://github.com/user-attachments/assets/fd3e8e75-bc84-4b00-a2e2-df4d02b5c698)
 ![Cost Structure Analysis](https://github.com/user-attachments/assets/83be6e59-b139-48c7-901f-39b3f06c66c9)
 ![Forecast Models](https://github.com/user-attachments/assets/1ffe0c7c-b9d2-4a67-ac54-c3cd9c099b36)
+![Variance Analysis](https://github.com/user-attachments/assets/c5edd56b-7872-44ee-a857-efd0cd590236)
